@@ -1,0 +1,41 @@
+## Visual Studio / .NET build output
+bin/
+obj/
+out/
+x64/
+x86/
+Debug/
+Release/
+[Dd]ebug/
+[Rr]elease/
+*.dll
+*.exe
+*.pdb
+
+## Visual Studio user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## Test results
+TestResults/
+
+## NuGet packages
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## ReSharper / Rider
+_ReSharper*/
+*.[Rr]e[Ss]harper
+.idea/
+
+## Logs and temp files
+*.log
+*.tmp
+*.cache
